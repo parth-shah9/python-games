@@ -1,4 +1,5 @@
-blackjack
+# blackjack
+
 simple blackjack game in python
 
 To run the project:
